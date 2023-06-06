@@ -2,7 +2,7 @@
 In this project, we will execute an End-To-End Data Engineering Project on Uber Data using GCP and Mage.AI.
 
 ## Architecture 
-<img src="Architecture.jpg">
+<img src="architecture.jpg">
 
 ## Technology Used
 - Programming Language - Python
